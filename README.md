@@ -28,3 +28,15 @@ These are perfect warm-up exercises to improve your **loop logic**, **indexing s
 make         # compiles the program
 make run     # compiles and runs
 make clean   # deletes executable
+
+
+## 🙋‍♂️ Author
+
+**Tejbir Singh**  
+🎓 Instrumentation & Control Engineering @ NITJ  
+🌱 Currently learning: DSA, C++, and Web Dev  
+🔗 [GitHub](https://github.com/Tejbir7)
+
+---
+
+> ⭐ Star the repo if you found it helpful!
