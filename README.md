@@ -28,7 +28,29 @@ These are perfect warm-up exercises to improve your **loop logic**, **indexing s
 make         # compiles the program
 make run     # compiles and runs
 make clean   # deletes executable
+```
+---
 
+## 📂 Folder Structure
+
+```
+CPP-Pattern-Practice/
+├── patterns/
+│   └── PatternPractise.cpp
+├── .gitignore
+├── LICENSE
+├── Makefile
+└── README.md
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, share, and modify for learning or teaching purposes!
+
+---
 
 ## 🙋‍♂️ Author
 
@@ -40,3 +62,6 @@ make clean   # deletes executable
 ---
 
 > ⭐ Star the repo if you found it helpful!
+```
+
+
